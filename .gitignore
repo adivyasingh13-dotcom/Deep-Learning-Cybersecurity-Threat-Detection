@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.DS_Store
+# raw dataset files are not uploaded (see data/README.md)
+data/*.csv
+data/*.parquet
+data/*.pcap

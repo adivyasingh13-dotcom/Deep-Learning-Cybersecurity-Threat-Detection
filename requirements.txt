@@ -1,0 +1,11 @@
+# Packages imported in the notebook (google.colab is Colab-only and is not listed).
+# No versions are pinned except where the notebook printed one (TensorFlow 2.21.0).
+tensorflow==2.21.0
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+ipywidgets
+# only needed for the optional scaler-saving snippet in the README
+joblib
