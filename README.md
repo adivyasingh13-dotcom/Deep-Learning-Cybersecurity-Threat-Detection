@@ -3,7 +3,7 @@
 Design Experience project, B.Tech. Information Technology, SVKM's NMIMS, MPSTME Shirpur Campus (2026–2027).
 Faculty guide: Vinod Waikar.
 
-**Team:** Adivya Kumar Singh (A237), Sarthak Salot (A228), Dhruvit Patel (A212), Vaibhav Raghuvanshi (A218), Aryan Raghuvanshi (A214), Vedansh Kanoongo (A253), Yuvraj Kale (A210)
+**Team:** Adivya Kumar Singh (A237)
 
 ## Project Overview
 
